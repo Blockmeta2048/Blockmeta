@@ -2,7 +2,9 @@
 
 > **A Sovereign Discrete Authentic Universe Grounded in the Bitcoin Blockchain.**  
 > 基于比特币区块链映射的离散自主全真宇宙理论总纲与物理引擎公理体系。
-
+> 📖 **实时公开草案与工作流 (Live Public Draft)**:  
+> [Blockmeta Public Draft on Notion](https://blockmeta.notion.site/Blockmeta-Public-Draft-40d390cce33080f588a2cea95a6ce23b)  
+> *注：理论核心公理与技术规范以本 GitHub 仓库加密时间戳版本为准，日常推导与思维草案同步更新于 Notion。*
 ---
 
 ## 目录 (Table of Contents)

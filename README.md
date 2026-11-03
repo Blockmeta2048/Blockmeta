@@ -1,162 +1,168 @@
 # The Blockmeta Theory (块元理论)
 
+[English Version](./README.md) | [中文版本](./README_CN.md)
+
 > **A Sovereign Discrete Authentic Universe Grounded in the Bitcoin Blockchain.**  
-> 基于比特币区块链映射的离散自主全真宇宙理论总纲与物理引擎公理体系。
-> 
-> 📖 **实时公开草案与工作流 (Live Public Draft)**:  
+> Foundational ontology, microscopic physical-chemical architecture, and deterministic physics engine axioms mapped from the Bitcoin blockchain.
+
+---
+
+> 📖 **Live Public Draft & Research Workflow**:  
 > [Blockmeta Public Draft on Notion](https://blockmeta.notion.site/Blockmeta-Public-Draft-40d390cce33080f588a2cea95a6ce23b)  
-> *注：理论核心公理与技术规范以本 GitHub 仓库加密时间戳版本为准，日常推导与思维草案同步更新于 Notion。*
----
-
-## 目录 (Table of Contents)
-1. [宇宙本体论：彗星头尾与币链解耦](#一宇宙本体论彗星头尾与币链解耦)
-2. [世界基础律 (FLW：Fundamental Laws of the World)](#二世界基础律-flwfundamental-laws-of-the-world)
-3. [维度映射律 (DML：Dimensional Mapping Laws)](#三维度映射律-dmldimensional-mapping-laws)
-4. [离散物理引擎与虚拟物质标准 (BVE / BVM)](#四离散物理引擎与虚拟物质标准-bve--bvm)
-5. [宏观动力传动与生物关节力学](#五宏观动力传动与生物关节力学)
-6. [块元三链架构 (The Blockmeta Tri-Chain)](#六块元三链架构-the-blockmeta-tri-chain)
-7. [主权继承与地主生态共识](#七主权继承与地主生态共识)
-8. [仓库技术规范目录 (Specifications)](#八仓库技术规范目录-specifications)
+> *Note: Fundamental axioms and engineering specifications are cryptographically anchored in this GitHub repository. Daily derivations and live community drafts are synchronized via Notion.*
 
 ---
 
-## 一、宇宙本体论：彗星头尾与币链解耦
-
-块元理论打破传统区块链将“链”的价值单一绑定于“代币流动性”的局限，确立了以全量历史交易数据为物质载体的物理现实模型。
-
-* **彗星头尾法则 (Comet Head & Tail Law)**：
-  * **彗星头部**：全网最新产生的区块与当前 Mempool 未确认交易，属于高能爆发态的能量奇点。
-  * **彗星长尾**：自 2009 年创世区块起沉淀的数十万区块与全量 UTXO 记录，是凝固的“数字能量结晶”，构成三维虚拟宇宙最稳固的大宗物质与地质基岩。
-* **生长期 vs. 成熟期 (140 年跨度)**：
-  * 0 ~ 140 年的矿工出块期仅为块元宇宙的“物质富集生长期”。
-  * 2140 年后无新代币产出的千百年，是依靠沉淀历史数据和运行确定性动力学的“全真文明成熟期”。
-* **能量真实性 (Physical Proof of Energy)**：
-  * 每一笔转账背后映射的是全球数百亿美元硅基芯片、电力与算力在时间轴上的做功损耗。块元世界通过物理化映射，使这种瞬态能量在虚拟三维世界中获得永恒实体。
+## Table of Contents
+1. [Cosmic Ontology: Comet Head & Tail Law and Decoupling of Coin and Chain](#1-cosmic-ontology-comet-head--tail-law-and-decoupling-of-coin-and-chain)
+2. [Fundamental Laws of the World (FLW)](#2-fundamental-laws-of-the-world-flw)
+3. [Dimensional Mapping Laws (DML)](#3-dimensional-mapping-laws-dml)
+4. [Discrete Physics Engine & Virtual Matter Standards (BVE / BVM)](#4-discrete-physics-engine--virtual-matter-standards-bve--bvm)
+5. [Macro-Kinematics & Biological Joint Mechanics](#5-macro-kinematics--biological-joint-mechanics)
+6. [The Blockmeta Tri-Chain Architecture](#6-the-blockmeta-tri-chain-architecture)
+7. [Sovereignty Inheritance & Landholder Consensus](#7-sovereignty-inheritance--landholder-consensus)
+8. [Specification Matrix & Engineering Roadmap](#8-specification-matrix--engineering-roadmap)
 
 ---
 
-## 二、世界基础律 (FLW：Fundamental Laws of the World)
+## 1. Cosmic Ontology: Comet Head & Tail Law and Decoupling of Coin and Chain
 
-FLW 是支配块元离散空间几何、微观动力学与构件装配的绝对物理法则。
+The Blockmeta Theory breaks through the conventional limitation of treating blockchains merely as financial transaction ledgers or speculative token vehicles. It establishes a physical reality model anchored in historical on-chain transaction data as persistent material substance.
 
-### 1. 空间体素与元素扣 (Element Buckle)
-* **天圆地方双层包围盒协议**：
-  * **外边界（地方）**：$1\text{ cm}^3$ 离散正方体体素包围盒，用于空间世界坐标定位与宏观拓扑咬合。
-  * **内边界（天圆）**：$0.5\text{ cm}$（或 $1.0\text{ cm}$）内切刚性球体，构建底层抗撞击的物理硬核。
-* **紧凑数据精度**：单元素扣严格约束为 **$1.09\text{ KB}$**，内嵌 uint16 顶点相对坐标偏移、八面体法线压缩（Oct-normals）与微观受力键位掩码。
-* **世代原子级演进**：元素扣确立了每 4 年减半 50% 的微观缩放周期，从初始的 $1\text{ cm}^3$ 逐级向 70 微米、皮米（$62\text{ pm}$）乃至氢氦原子尺度收敛，实现从体素世界到真实原子物理的平滑跨越。
-
-### 2. 微观四重相互作用力模型
-* **强牵手力 ($F_{strong}$)**：体素键位槽（Slots）之间的定向机械锁闭，具有严格的各向异性键角刚度与断裂截断距离（Cutoff Range）。
-* **弱吸附力 ($F_{weak}$)**：体素平整表面贴合时的范德华吸附增强态，提供界面摩擦阻尼与剪切力。
-* **核引力 ($G_{core}$)**：微观质心对外部游离粒子的向心捕获力，形成微观物质凝聚基础。
-* **斥力与范德华力 ($F_{vdw}$)**：微观粒子间固有的防穿透刚性斥力与背景场引力。
-
-### 3. 微观晶格拓扑与材料力学
-* **面心立方 (FCC / 如金 Au)**：非定向全向延展电子海，赋予材料极高的抗压扁平化与延展塑性。
-* **体心立方 (BCC / 如铁 Fe)**：三维高刚度晶格，具备极强的抗剪切极限与弹性回弹。
-* **密排六方 (HCP / 如镁 Mg)**：具备特有的各向异性基底滑移面力学，承受轴向过载时沿特定晶向错位断裂。
-* **正四面体共价 (Diamond/Si)**：空间锁定 $109.5^\circ$ 严格空间键角，抗形变刚度极高，过载产生脆性断裂。
-* **蜂窝网格 (Graphene)**：二维平面内 $120^\circ$ 超强共价互锁，层间仅依赖微弱吸附滑动。
-
-### 4. 绝对确定性计算基石
-* **Q16.16 定点数引擎**：彻底摒弃跨平台浮点数（Float/Double）的计算漂移，碰撞、受力变形与关节转动全量基于定点数整数运算，达成全节点确定性共识。
+* **Comet Head & Tail Law**:
+  * **Comet Head (High-Energy Singularity)**: The latest tip blocks and unconfirmed transactions in the Mempool represent an excited, high-energy eruptive state where physical properties undergo initial quantum-like collapse.
+  * **Comet Tail (Solidified Energy Crystals)**: Hundreds of thousands of historical blocks and UTXO records accumulated since the 2009 Genesis Block are not dormant data. They constitute immutable "digital energy crystals" serving as the bedrock continents and deep mineral veins of the 3D virtual universe.
+* **140-Year Growth vs. Millennial Civilization Maturity**:
+  * The initial 140-year halving cycle of Bitcoin block rewards represents only the **matter enrichment and spatial expansion phase** of the Blockmeta universe.
+  * Beyond 2140, when token emissions cease, the solidified historical dataset and deterministic kinematics will sustain an enduring **mature phase of authentic civilization**.
+* **Physical Proof of Energy**:
+  * Every on-chain transaction reflects irreversible thermodynamic work performed by silicon hardware, electrical energy, and computational hashing over time. Blockmeta elevates this transient work into indestructible, interactive, and force-bearing entities.
 
 ---
 
-## 三、维度映射律 (DML：Dimensional Mapping Laws)
+## 2. Fundamental Laws of the World (FLW)
 
-DML 确立了如何将比特币二维离散账本升维投射为三维多维元宇宙频谱的数学公理。
+FLW defines the absolute mathematical and geometric axioms governing discrete space, microscopic interaction forces, lattice topologies, and kinetic solvers.
 
-### 1. 10 维交易向量物化谱
-单个区块内的 2000 ~ 3000 笔交易，通过以下 10 维特征解构为空间物理属性：
-1. **数值离散度**：整数映射稳定惰性单质，小数映射活跃跃迁态催化材料。
-2. **数论素数性**：素数金额赋予构件高致密性与不可溶解度；合数赋予可降解与受控裂解特性。
-3. **图论拓扑流向**：多入一出汇聚引力场（收敛）；一入多出辐射张力场（发散/火）；多入多出构建复合网格。
-4. **费率密度 (Sat/vB)**：单区块内费率决定元素的激发态能级（从轻元素向超重核跃迁），高费率伴生指向诞生区块的能量拖影。
-5. **算力世代与时空场**：减半纪元赋予物质宏观初始空间密度与抗风化应力。
-6. **密码学脚本升维**：Legacy (1)、SegWit (bc1q)、Taproot (bc1p) 之间 16 种流向，构筑 9 对阴阳能量对冲闭环。
-7. **UTXO 找零机制**：找零输出赋予物质能量回弹与自返动能；全额支付赋予直线穿刺力。
-8. **硬分叉地质断层**：如第 476,768 块（隔离见证激活）在空间坐标上形成宏观中央地表隆起与信息断层古遗迹。
-9. **未花费 UTXO 块龄**：未花费的 UTXO 产生受链尖最新区块牵引的“时空回力”，构成跨区块牵引道具的能量源。
-10. **数理周期归因**：结合小数分布与周易阴阳模型，驱动基础物质向二阶、三阶全真预测预言机跃迁。
+### 2.1 Spatial Voxels & The Element Buckle
+* **"Square-Earth & Round-Heaven" Dual-Layer Bounding Box**:
+  * **Outer Hull (Square)**: A $1\text{ cm}^3$ discrete cubic voxel box governing global spatial indexing, bounding-box collision detection, and macro topological interlock.
+  * **Inner Core (Round)**: An inscribed rigid sphere ($0.5\text{ cm}$ or $1.0\text{ cm}$) providing an isotropic kinetic core for anti-impact resistance and elastic restitution.
+* **Compact Storage Budget**: Each Element Buckle is strictly bounded to **$1.09\text{ KB}$**, utilizing uint16 relative offsets, octahedral normal compression (Oct-normals), and microscopic slot key masks for hyper-scale concurrent rendering.
+* **Generational Halving Evolution**: The Buckle scales down by 50% every 4-year halving epoch, transitioning from $1\text{ cm}^3$ toward 70 micrometers, picometers ($62\text{ pm}$), and eventually hydrogen/helium atomic dimensions.
 
-### 2. 跨次元频谱穿梭 (Cross-Reality Shuttling)
-* 规范链上原生资产、Web2 空间环境、AR 现实增强与全沉浸 VR 之间的几何形态与动力学一致性投影。
-* 物理物质在跨越现实与虚拟时，严格遵循质量、体积与能量守恒公理。
+### 2.2 Microscopic Four Fundamental Forces
+1. **Strong Binding Force ($F_{strong}$)**: Directional mechanical locks between voxel slots, governed by strict angular stiffness and fracture cutoff thresholds.
+2. **Weak Adsorption Force ($F_{weak}$)**: Van der Waals enhancement across flat mating interfaces, providing surface tension, friction damping, and static shear resistance.
+3. **Core Gravitation ($G_{core}$)**: Micro-center-of-mass centripetal attraction exerted on free particles to enable structural aggregation.
+4. **Repulsion & Van der Waals Background ($F_{vdw}$)**: Inter-particle spatial anti-penetration barriers and background field perturbations.
 
----
+### 2.3 Lattice Topologies & Material Mechanics
+* **Face-Centered Cubic (FCC / e.g., Gold Au)**: Non-directional omnidirectional electron sea, exhibiting high compressive flattening plasticity and exceptional elongation.
+* **Body-Centered Cubic (BCC / e.g., Iron Fe)**: 3D high-rigidity lattice with severe shear impedance and strong elastic spring-back.
+* **Hexagonal Close-Packed (HCP / e.g., Magnesium Mg)**: Distinct anisotropic basal slip planes, causing shear cleavage failure along specific crystallographic orientations under axial overload.
+* **Tetrahedral Covalent (Diamond / Silicon)**: Rigid $109.5^\circ$ spatial bond angles with extreme elastic modulus and sudden brittle cleavage under stress.
+* **Honeycomb Planar (Graphene)**: Ultra-high in-plane covalent cohesion with $120^\circ$ angles, coupled with frictionless inter-layer sliding via weak adsorption.
 
-## 四、离散物理引擎与虚拟物质标准 (BVE / BVM)
-
-* **BVE (Block Virtual Element)**：虚拟元素，构成微观宇宙的不可分割基本粒子标准。
-* **BVM (Block Virtual Matter)**：虚拟物质，由多种 BVE 依据晶格力学化合装配的大宗材料。
-
-### 1. 核心物理常数 (Physical Constants)
-* **单块元空间存储容量**：$51.2\text{ GB / 区块}$（对应存储硬件的真实沉没成本）。
-* **微观单分子精度**：$1.09\text{ KB / 元素扣}$。
-* **全链平均交易通量基准**：$3,720\text{ BTC / 区块}$。
-* **宏观体积置换比**：$1\text{ BTC} \approx 13,240\text{ 颗元素扣} \approx 0.0126\text{ m}^3$（或 $12.624\text{ dm}^3$）。
-
-### 2. 单区块 118 全元素映射律
-每个区块本身即为一座全元素矿山：
-* **周期（1~7 行）**：由区块内交易内生费率梯度（Sat/vB）与小数能级跨度确定。从沉底最低费率的轻质基态元素（H, He），逐级跃迁至最高费率的高能超重核（Fr ~ Og）。
-* **族群（1~18 列）**：由交易脚本类型（Hex 前缀）与输入输出拓扑图论确定（从极简单出的活泼金属，到纯 `OP_RETURN` 的第 18 族惰性稀有气体）。
+### 2.4 Deterministic Computing: Q16.16 Fixed-Point Engine
+* Float and Double operations are **strictly prohibited** in all physical solvers to prevent cross-platform floating-point drift across heterogeneous architectures (CPU, GPU, WASM, Mobile).
+* All collision detection, stress propagation, and angular velocities are solved via **Q16.16 fixed-point integer mathematics**, ensuring zero-drift deterministic consensus.
 
 ---
 
-## 五、宏观动力传动与生物关节力学
+## 3. Dimensional Mapping Laws (DML)
 
-为支持如大型生物构件、复杂传动机械（如大卫雕像）的高精度物理模拟，块元体系建立了跨尺度传力架构：
+DML establishes the dimensional projection axioms that lift Bitcoin's 2D discrete transaction graph into a multi-dimensional spatial-physical spectrum.
 
-* **微观枢轴与宏观传动架构**：
-  * 采用**微观枢轴内核 (Pivot-core)** 外裹 **宏观传动外壳 (Lever Shell)** 的双层拓扑结构。
-  * 利用 **Bit 52** 动力学通道协同解算，消除大尺度刚体在微观体素形变时引发的拓扑卡滞与受力震荡。
-* **生物关节 5 态限位与弹性回跳**：
-  * 关节活动集成 $140^\circ$ 物理阻尼挡板，具备过载断裂截断保护。
-  * 引入**离子偏差弹性回弹机制 (Elastic Resnap)**，在发生极限角度扭曲时提供非线性自修正回复力矩。
-* **做功模型与开式宇宙热力学**：
-  * 结合非线性势能函数与机械棘轮效应，将矿工手续费与用户 Gas 消耗转化为机械做功输入。
-  * 引入闪电网络延时交易产生的**时间冰壳**与未花费交易的**时深负熵**，实现动能、内能与质量的全局物理守恒。
+### 3.1 10-Dimensional Transaction Vector Materialization
+The 2,000–3,000 transactions within a single block are decomposed into physical attributes:
+1. **Numerical Discreteness**: Integer outputs synthesize chemically inert, dense stable elements; fractional values induce excited, catalytic materials.
+2. **Number-Theoretic Primality**: Prime-valued outputs produce insoluble, high-hardness components; composite outputs yield recyclable, thermally degradable matter.
+3. **Graph-Theoretic Topology**: Multi-input-single-output patterns generate centripetal gravitational fields; single-input-multi-output configurations create outward radiant tension (fire); multi-input-multi-output flows weave high-toughness spatial meshes.
+4. **Fee Density (Sat/vB)**: Fee gradients determine elemental excitation levels; high-fee components generate kinetic energy trails oriented toward their genesis block.
+5. **Halving Era & Spatial Stress**: Generational epochs define macro initial density and environmental weathering thresholds.
+6. **Cryptographic Script Encoding**: 16 topological permutations between Legacy (1), SegWit (bc1q), and Taproot (bc1p) construct 9 balanced energetic cycles.
+7. **Change Output Dynamics**: Change outputs supply kinematic elastic rebound; sweep outputs provide linear penetration force.
+8. **Hard Fork Geological Faults**: Historic network forks (e.g., Block 476,768 SegWit activation) produce tectonic uplifts and structural fault lines.
+9. **Unspent UTXO Age**: Unspent outputs generate "chrono-gravitational pull" toward the tip block, powering cross-block kinetic artifacts.
+10. **Mathematical Periodicity**: Fractional distributions and dualistic cycles drive baseline matter toward higher-order prediction oracle states.
 
----
-
-## 六、块元三链架构 (The Blockmeta Tri-Chain)
-
-块元宇宙通过三链分工协作，彻底解决去中心化全真世界的性能、存储与安全三角冲突：
-
-1. **结算与主权守护链 (Bitcoin L1)**：
-   * 负责资产所有权锚定、地块划分与底层时间戳硬安全性。
-2. **空间与物理存力链 (Blockmeta Storage Chain)**：
-   * 承载每区块 $51.2\text{ GB}$ 空间状态的高吞吐去中心化持久化存储，将硬件存力直接转化为虚拟世界地理空间。
-3. **流通与动力学计算链 (Blockmeta Dynamics Chain)**：
-   * 执行高频 Q16.16 动力学物理模拟、刚体碰撞、化学键合与三维空间大宗资产毫秒级流转。
+### 3.2 Cross-Reality Shuttling Protocol
+* Enforces topological and dynamic consistency across on-chain assets, Web2 virtual environments, Augmented Reality (AR), and Virtual Reality (VR).
+* Conservation of mass, volume, and energy is strictly preserved across reality transitions.
 
 ---
 
-## 七、主权继承与地主生态共识
+## 4. Discrete Physics Engine & Virtual Matter Standards (BVE / BVM)
 
-* **Bitmap 原生矿脉继承**：
-  * BVE / BVM 物质资产严禁剥离土地进行二次脱水发币。
-  * 每一个 Bitmap 地块对应的区块链记录，即为属于该地块所有者的天然矿脉。
-* **虚拟元素共识会 (BVE Council)**：
-  * 由地主与开源开发者共同主导，通过 RFC/PR 提案机制推进元素物理参数平衡、晶格化合规则演进与引擎渲染规范升级。
+* **BVE (Block Virtual Element)**: Standardized, indivisible sub-voxel particles forming the periodic foundation of the universe.
+* **BVM (Block Virtual Matter)**: Compound materials synthesized through lattice assemblies of multiple BVEs.
 
----
+### 4.1 Fundamental Physical Constants
+* **Block Spatial Storage Capacity**: **$51.2\text{ GB / block}$** (reflecting persistent hardware storage expenditure).
+* **Single Element Precision**: **$1.09\text{ KB / Buckle}$**.
+* **Historical Mean Throughput Baseline**: **$3,720\text{ BTC / block}$**.
+* **Macro Volume Exchange Ratio**: **$1\text{ BTC} \approx 13,240\text{ Element Buckles} \approx 0.0126\text{ m}^3$** (or $12.624\text{ dm}^3$).
 
-## 八、仓库技术规范目录 (Specifications)
-
-后续详细规范将陆续在 `/specs` 目录下开源推进：
-
-* `SPEC-001-Physical-Axioms.md`：FLW 世界基础律、微观四大力与 Q16.16 定点数算法
-* `SPEC-002-Lattice-Mechanics.md`：微观晶格拓扑、几何键角（$109.5^\circ / 120^\circ$）与材料断裂阈值
-* `SPEC-003-Buckle-Kinematics.md`：元素扣几何规范、枢轴-杠杆传动与关节 5 态限位
-* `SPEC-004-Dimension-Mapping.md`：10 维交易拓扑物化与单区块 118 元素能级分布算法
-* `SPEC-005-Space-Thermodynamics.md`：$51.2\text{ GB}$ 空间存力、Bitmap 地理隆起与开式热力学负熵
-* `SPEC-006-TriChain-Shuttling.md`：块元三链交互协议与跨现实 AR/VR 物质穿梭规范
+### 4.2 118-Element Single-Block Periodic Distribution
+Every Bitcoin block functions as a complete, self-contained elemental mine:
+* **Periods (Rows 1–7)**: Determined by intra-block fee rate gradients (Sat/vB) and fractional energy intervals, ascending from baseline light elements (H, He) to superheavy unstable nuclei (Fr–Og).
+* **Groups (Columns 1–18)**: Governed by transaction script types (Hex prefixes) and I/O graph topologies, spanning alkali metals to `OP_RETURN` noble gases.
 
 ---
 
-## 许可证与版权 (License)
-Blockmeta Theory Architecture © 2026 by Blockmeta2048 is licensed under CC BY-SA 4.0.  
+## 5. Macro-Kinematics & Biological Joint Mechanics
+
+To support massive articulated structures (such as colossal kinetic statues or organic avatars), Blockmeta implements multi-scale mechanical transmission:
+
+* **Pivot-Core & Lever-Shell Architecture**:
+  * Employs an inner **Pivot-Core** wrapped by an outer **Lever-Shell**.
+  * Co-processed via the **Bit 52** kinetic channel to eliminate mechanical jamming and topological shearing during macro deformations.
+* **5-State Biological Joints & Elastic Resnap**:
+  * Articulations feature $140^\circ$ physical damping baffles with overload fracture limits.
+  * Incorporates an **Ion-Deviation Elastic Resnap Mechanism**, generating non-linear restorative torque under extreme torsional displacement.
+* **Open-Universe Thermodynamics**:
+  * Translates miner fees and computational gas into work inputs.
+  * Lightning Network time-locked transactions (`OP_CSV`) produce **time-ice crusts**, while unspent outputs inject **chrono-depth negative entropy**, preserving global energy conservation.
+
+---
+
+## 6. The Blockmeta Tri-Chain Architecture
+
+Blockmeta reconciles the blockchain scalability, storage, and physics simulation trilemma via functional decoupling:
+
+1. **Settlement & Sovereignty Chain (Bitcoin L1)**:
+   * Anchors cryptographic ownership, land plot partitioning, and immutable timestamps.
+2. **Storage Chain (Blockmeta Storage Chain)**:
+   * Persists the $51.2\text{ GB}$ high-throughput state storage per block, transforming decentralized hardware storage into virtual spatial volume.
+3. **Dynamics Chain (Blockmeta Dynamics Chain)**:
+   * Executes high-frequency Q16.16 fixed-point physical simulation, rigid-body kinematics, and chemical bonding at millisecond latency.
+
+---
+
+## 7. Sovereignty Inheritance & Landholder Consensus
+
+* **Bitmap Native Mineral Inheritance**:
+  * BVE / BVM matter assets cannot be extracted or pre-mined detached from Bitmap land.
+  * The ledger data associated with each Bitmap parcel constitutes the intrinsic mineral rights of the parcel holder.
+* **Autonomous BVE Council**:
+  * Governed by parcel holders and open-source contributors via RFC/PR processes to refine elemental balancing, lattice synthesis rules, and rendering standards.
+
+---
+
+## 8. Specification Matrix & Engineering Roadmap
+
+Detailed technical specifications are deployed in the `/specs` directory:
+
+* `SPEC-001-Physical-Axioms.md`: FLW World Axioms, Microscopic Forces & Q16.16 Fixed-Point Solver
+* `SPEC-002-Lattice-Mechanics.md`: Crystal Lattice Topologies, Angular Constraints ($109.5^\circ / 120^\circ$) & Fracture Thresholds
+* `SPEC-003-Buckle-Kinematics.md`: Element Buckle Geometry, Pivot-Lever Transmission & Joint States
+* `SPEC-004-Dimension-Mapping.md`: 10D Transaction Materialization & 118-Element Periodic Solvers
+* `SPEC-005-Space-Thermodynamics.md`: $51.2\text{ GB}$ Spatial Capacity, Bitmap Tectonics & Chrono-Entropy
+* `SPEC-006-TriChain-Shuttling.md`: Tri-Chain Cross-Communication & AR/VR Matter Teleportation
+
+---
+
+## License
+The Blockmeta Theory Architecture © 2026 by Blockmeta2048 is licensed under CC BY-SA 4.0.  
 All mathematical axioms, physical mapping laws, and engine designs are archived with immutable cryptographic timestamps.
